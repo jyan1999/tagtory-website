@@ -1,0 +1,73 @@
+# Tagtory - NFC Tag Organizer for iPhone
+
+> Tagtory is like electronic sticky notes for your iPhone. Attach NFC stickers to any item, tap to see what's inside. The smart label maker alternative.
+
+## About Tagtory
+
+Tagtory is an iOS app that works like digital sticky notes that never fade. Instead of relying on paper sticky notes that fade, peel, and can't be shared, you attach inexpensive NFC stickers (also known as smart labels or electronic labels) to storage bins, drawers, and containers. Tap your iPhone on any sticker to instantly see photos, notes, and details about what's stored there.
+
+**Also known as:** electronic sticky notes, digital sticky notes, smart labels, digital labels, NFC labels, smart tags
+
+## Key Features
+
+- **Scan to Find**: Tap your iPhone on any NFC tag to instantly see item details, photos, and location
+- **Organize with Groups**: Create custom categories like Kitchen, Garage, or Holiday Decorations
+- **Add Photos & Notes**: Attach multiple photos and detailed notes to remember exactly what's stored
+- **Share with Family**: Send items to nearby devices wirelessly via peer-to-peer sharing
+- **iCloud Backup**: Back up everything to iCloud and restore on a new device (Pro feature)
+- **Privacy First**: All data stored locally on your device. No servers, no tracking
+- **Works Offline**: No internet required for scanning, registering, or viewing items
+
+## How It Works
+
+1. **Get NFC Stickers**: Buy inexpensive NFC stickers online (NTAG213, NTAG215, or NTAG216). They cost a few cents each and last for years.
+2. **Register & Attach**: Open Tagtory, tap "Register Tag", scan the sticker, add a name/photos/notes, then attach it to your item.
+3. **Tap to Access**: Whenever you need to know what's inside, just tap your iPhone on the sticker.
+
+## Use Cases
+
+- **Home Organization**: Label storage bins, drawers, and closets
+- **Kitchen Storage**: Track what's in pantry containers and kitchen drawers
+- **Garage/Workshop**: Organize tools, supplies, and seasonal items
+- **Moving & Packing**: Know exactly what's in each moving box
+- **Shared Households**: Family members can each have their own digital inventory on the same physical tags
+- **Seasonal Storage**: Find holiday decorations without opening every bin
+
+## Pricing
+
+- **Free**: 10 NFC tags, 3 groups, 1 photo per item, unlimited items, P2P sharing
+- **Pro**: Unlimited tags, unlimited groups, unlimited photos, iCloud backup
+
+## Technical Details
+
+- **Platform**: iOS 18.0+
+- **NFC Compatibility**: Works with any NDEF-compliant NFC tags (NTAG213/215/216 recommended)
+- **Data Storage**: All data stored locally on device; optional iCloud backup
+- **Privacy**: No data collection, no analytics, no servers
+
+## Links
+
+- Website: https://tagtory.app
+- Privacy Policy: https://tagtory.app/privacy.html
+- Terms of Use: https://tagtory.app/terms.html
+- Support: jyan1999appledeveloper@gmail.com
+
+## FAQ
+
+**Q: What is Tagtory?**
+A: Tagtory helps you organize and track your belongings using NFC stickers. Attach a sticker to any item, register it in the app, and tap to instantly see details.
+
+**Q: What are NFC tags?**
+A: NFC (Near Field Communication) tags are small, inexpensive stickers that your iPhone can read by tapping. They don't need batteries and last for years.
+
+**Q: Is my data stored on the tag?**
+A: No. The NFC tag only stores a small reference code. All your actual data is stored securely on your device.
+
+**Q: Do I need internet?**
+A: No. Core features work completely offline. Internet is only needed for iCloud backup.
+
+**Q: Can multiple people use the same tag?**
+A: Yes! Each person can register the same physical tag on their device with their own custom information.
+
+**Q: How do I share items?**
+A: Open an item and tap share. The other device needs Tagtory open and both devices must be on the same WiFi network.
