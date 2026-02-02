@@ -435,6 +435,11 @@ section {
     height: 20px;
 }
 
+.btn-coming-soon {
+    cursor: default;
+    pointer-events: none;
+}
+
 /* ===========================================
    Hero Section
    =========================================== */
