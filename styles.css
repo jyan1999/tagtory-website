@@ -1576,6 +1576,57 @@ section {
 }
 
 /* ===========================================
+   FAQ Support Prompt
+   =========================================== */
+
+.faq-support {
+    max-width: 700px;
+    margin: var(--space-xxl) auto 0;
+    display: flex;
+    align-items: center;
+    gap: var(--space-lg);
+    padding: var(--space-xl);
+    background: rgba(61, 154, 139, 0.08);
+    border: 1px solid rgba(61, 154, 139, 0.2);
+    border-radius: var(--radius-lg);
+}
+
+.faq-support-icon {
+    width: 40px;
+    height: 40px;
+    color: var(--color-accent);
+    flex-shrink: 0;
+}
+
+.faq-support-heading {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--color-text-primary);
+    margin-bottom: var(--space-xs);
+}
+
+.faq-support-body {
+    font-size: 0.9375rem;
+    color: var(--color-text-secondary);
+}
+
+.faq-support a {
+    font-weight: 600;
+    color: var(--color-accent);
+}
+
+.faq-support a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+    .faq-support {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+/* ===========================================
    Footer
    =========================================== */
 
