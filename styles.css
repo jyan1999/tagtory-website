@@ -436,8 +436,7 @@ section {
 }
 
 .btn-coming-soon {
-    cursor: default;
-    pointer-events: none;
+    cursor: pointer;
 }
 
 /* ===========================================
